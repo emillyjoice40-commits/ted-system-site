@@ -12,4 +12,4 @@ Desenvolver soluções de software personalizadas, seguras e escaláveis que sim
 ## Equipe
 - **Wanderson de Vasconcelos** — CEO e Engenheiro de Software
 - **Sheldon Cooper** — Especialista Full Stack
-- **Amy Farrah Fowler** — Especialista em Bancos de Dados 
+- **Amy Farrah Fowler** — Especialista em Bancos de Dados
